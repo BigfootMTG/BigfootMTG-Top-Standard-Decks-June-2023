@@ -1,0 +1,31 @@
+Deck
+3 The Restoration of Eiganjo (NEO) 34
+4 Jukai Naturalist (NEO) 225
+4 Spirited Companion (NEO) 38
+4 Calix, Guided by Fate (MAT) 26
+4 Generous Visitor (NEO) 185
+4 Teachings of the Kirin (NEO) 212
+1 Rite of Harmony (MID) 236
+1 Seal from Existence (MOM) 35
+2 Wedding Announcement (VOW) 45
+4 Audacity (BRO) 169
+4 Ossification (ONE) 26
+4 Hallowed Haunting (VOW) 17
+6 Plains (MIR) 331
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Boseiju, Who Endures (NEO) 266
+4 Razorverge Thicket (ONE) 257
+4 Brushland (BRO) 259
+4 Forest (MIR) 347
+1 Overgrown Farmland (MID) 265
+
+Sideboard
+2 Circle of Confinement (VOW) 7
+4 Surge of Salvation (MOM) 41
+1 Destroy Evil (DMU) 17
+1 Destroy Evil (DMU) 17
+2 Seal from Existence (MOM) 35
+2 Katilda, Dawnhart Martyr (VOW) 21
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Loran of the Third Path (BRO) 12
+1 Nissa, Ascended Animist (ONE) 175

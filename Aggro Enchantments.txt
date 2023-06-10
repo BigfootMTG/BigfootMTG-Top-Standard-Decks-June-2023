@@ -1,0 +1,27 @@
+Deck
+3 Katilda, Dawnhart Martyr (VOW) 21
+2 The Restoration of Eiganjo (NEO) 34
+4 Spirited Companion (NEO) 38
+4 Generous Visitor (NEO) 185
+4 Kami of Transience (NEO) 197
+4 Teachings of the Kirin (NEO) 212
+4 Jukai Naturalist (NEO) 225
+4 Calix, Guided by Fate (MAT) 26
+4 Audacity (BRO) 169
+4 Ossification (ONE) 26
+4 Brushland (BRO) 259
+2 Overgrown Farmland (MID) 265
+1 Boseiju, Who Endures (NEO) 266
+1 Eiganjo, Seat of the Empire (NEO) 268
+4 Razorverge Thicket (ONE) 257
+6 Plains (MIR) 331
+5 Forest (MIR) 347
+
+Sideboard
+2 Rite of Harmony (MID) 236
+3 Circle of Confinement (VOW) 7
+2 The Stone Brain (BRO) 247
+2 Hallowed Haunting (VOW) 17
+2 Touch the Spirit Realm (NEO) 40
+1 Boseiju, Who Endures (NEO) 266
+3 Seal from Existence (MOM) 35

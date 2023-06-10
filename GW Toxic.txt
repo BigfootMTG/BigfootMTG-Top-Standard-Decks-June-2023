@@ -1,0 +1,30 @@
+Deck
+4 Crawling Chorus (ONE) 8
+4 Skrelv, Defector Mite (ONE) 33
+4 Venerated Rotpriest (ONE) 192
+4 Jawbone Duelist (ONE) 18
+4 Slaughter Singer (ONE) 216
+4 Bloated Contaminator (ONE) 159
+2 Annex Sentry (ONE) 2
+4 Tyvar's Stand (ONE) 190
+1 Destroy Evil (DMU) 17
+4 Skrelv's Hive (ONE) 34
+1 Boseiju, Who Endures (NEO) 266
+4 Brushland (BRO) 259
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Forest (MIR) 347
+4 Mirrex (ONE) 254
+2 Overgrown Farmland (MID) 265
+1 Plains (MIR) 331
+4 Razorverge Thicket (ONE) 257
+4 The Seedcore (ONE) 259
+3 Soul Partition (BRO) 26
+
+Sideboard
+2 Annex Sentry (ONE) 2
+2 Destroy Evil (DMU) 17
+3 Audacity (BRO) 169
+1 Soul Partition (BRO) 26
+4 Knockout Blow (SNC) 20
+2 Ajani, Sleeper Agent (DMU) 192
+1 Surge of Salvation (MOM) 41

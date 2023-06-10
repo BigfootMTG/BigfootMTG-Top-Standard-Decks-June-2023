@@ -1,0 +1,35 @@
+Deck
+2 Atsushi, the Blazing Sky (NEO) 134
+3 Chrome Host Seedshark (MOM) 51
+4 Zurgo and Ojutai (MOM) 258
+1 Disdainful Stroke (GRN) 37
+1 Destroy Evil (DMU) 17
+4 Make Disappear (SNC) 49
+4 Strangle (SNC) 125
+2 Brotherhood's End (BRO) 128
+2 Invasion of Gobakhan (MOM) 22
+4 Wedding Announcement (VOW) 45
+3 Invasion of Tarkir (MOM) 149
+1 Invasion of New Phyrexia (MOM) 239
+4 The Wandering Emperor (NEO) 42
+3 Shivan Reef (DMU) 255
+4 Seachrome Coast (ONE) 258
+1 Plains (MIR) 331
+3 Stormcarved Coast (VOW) 265
+3 Battlefield Forge (BRO) 257
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Otawara, Soaring City (NEO) 271
+1 Adarkar Wastes (DMU) 243
+4 Sundown Pass (VOW) 266
+2 Sokenzan, Crucible of Defiance (NEO) 276
+2 Deserted Beach (MID) 260
+
+Sideboard
+1 Invasion of Gobakhan (MOM) 22
+2 Negate (M20) 69
+1 Brotherhood's End (BRO) 128
+3 Lithomantic Barrage (MOM) 152
+1 Lithomantic Barrage (MOM) 152
+2 Disdainful Stroke (GRN) 37
+3 Destroy Evil (DMU) 17
+2 Sunfall (MOM) 40

@@ -1,0 +1,24 @@
+Deck
+4 Monastery Swiftspear (BRO) 144
+4 Bloodthirsty Adversary (MID) 129
+4 Kumano Faces Kakkazan (NEO) 152
+4 Phoenix Chick (DMU) 140
+1 Squee, Dubious Monarch (DMU) 146
+2 Feldon, Ronom Excavator (BRO) 135
+4 Furnace Punisher (ONE) 132
+4 Play with Fire (MID) 154
+1 Lightning Strike (XLN) 149
+3 Lightning Strike (DMU) 137
+2 Nahiri's Warcrafting (MOM) 155
+4 Invasion of Tarkir (MOM) 149
+2 Sokenzan, Crucible of Defiance (NEO) 276
+4 Mishra's Foundry (BRO) 265
+17 Mountain (MIR) 346
+
+Sideboard
+3 Bloody Betrayal (VOW) 147
+2 Chandra, Dressed to Kill (VOW) 149
+2 Jaya, Fiery Negotiator (DMU) 133
+2 Obliterating Bolt (BRO) 145
+4 Lithomantic Barrage (MOM) 152
+2 Nahiri's Warcrafting (MOM) 155

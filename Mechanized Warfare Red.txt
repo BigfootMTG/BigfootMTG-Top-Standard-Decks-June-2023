@@ -1,0 +1,25 @@
+Deck
+3 Feldon, Ronom Excavator (BRO) 135
+4 Voldaren Epicure (VOW) 182
+4 Kumano Faces Kakkazan (NEO) 152
+2 Squee, Dubious Monarch (DMU) 146
+4 Phoenix Chick (DMU) 140
+4 Monastery Swiftspear (BRO) 144
+4 Play with Fire (MID) 154
+1 Lightning Strike (XLN) 149
+3 Lightning Strike (DMU) 137
+4 End the Festivities (VOW) 155
+4 Reckless Impulse (VOW) 174
+4 Mechanized Warfare (BRO) 139
+1 Chandra, Dressed to Kill (VOW) 149
+17 Mountain (MIR) 346
+1 Sokenzan, Crucible of Defiance (NEO) 276
+
+Sideboard
+4 Lithomantic Barrage (MOM) 152
+2 Bloody Betrayal (VOW) 147
+1 Nahiri's Warcrafting (MOM) 155
+2 Nahiri's Warcrafting (MOM) 155
+2 Chandra, Dressed to Kill (VOW) 149
+2 Jaya, Fiery Negotiator (DMU) 133
+2 Flame-Blessed Bolt (VOW) 158

@@ -1,0 +1,31 @@
+Deck
+2 Sunfall (MOM) 40
+3 Atraxa, Grand Unifier (ONE) 196
+3 Etali, Primal Conqueror (MOM) 137
+4 Archangel of Wrath (DMU) 3
+4 Topiary Stomper (SNC) 160
+2 Courier's Briefcase (SNC) 142
+4 Herd Migration (DMU) 165
+4 Ossification (ONE) 26
+4 Leyline Binding (DMU) 24
+4 Invasion of Zendikar (MOM) 194
+2 Mountain (MIR) 346
+3 Plains (MIR) 331
+1 Island (MIR) 336
+1 Raffine's Tower (SNC) 254
+2 Mirrex (ONE) 254
+4 Forest (MIR) 347
+4 Spara's Headquarters (SNC) 257
+3 Ziatora's Proving Ground (SNC) 261
+1 Swamp (MIR) 340
+1 Boseiju, Who Endures (NEO) 266
+4 Jetmir's Garden (SNC) 250
+
+Sideboard
+2 Unlicensed Hearse (SNC) 246
+2 Sunfall (MOM) 40
+3 Lithomantic Barrage (MOM) 152
+1 Lithomantic Barrage (MOM) 152
+3 Tyrranax Rex (ONE) 189
+3 The Stone Brain (BRO) 247
+1 Elesh Norn, Mother of Machines (ONE) 10

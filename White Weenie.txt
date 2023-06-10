@@ -1,0 +1,26 @@
+Deck
+3 Thalia, Guardian of Thraben (DKA) 24
+4 Adeline, Resplendent Cathar (MID) 1
+3 Intrepid Adversary (MID) 25
+4 Hopeful Initiate (VOW) 20
+2 Extraction Specialist (SNC) 12
+2 Anointed Peacekeeper (DMU) 2
+2 Guardian of New Benalia (DMU) 19
+4 Recruitment Officer (BRO) 23
+2 Skrelv, Defector Mite (ONE) 33
+4 Coppercoat Vanguard (MAT) 1
+4 Ossification (ONE) 26
+2 Invasion of Gobakhan (MOM) 22
+18 Plains (MIR) 331
+2 Eiganjo, Seat of the Empire (NEO) 268
+3 Mishra's Foundry (BRO) 265
+1 Thalia, Guardian of Thraben (VOW) 38
+
+Sideboard
+2 The Wandering Emperor (NEO) 42
+2 Extraction Specialist (SNC) 12
+3 Destroy Evil (DMU) 17
+1 Destroy Evil (DMU) 17
+2 Lay Down Arms (BRO) 11
+2 Archangel Elspeth (MOM) 6
+3 Surge of Salvation (MOM) 41

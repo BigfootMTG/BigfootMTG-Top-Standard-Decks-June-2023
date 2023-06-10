@@ -1,0 +1,32 @@
+Deck
+3 Ambitious Farmhand (MID) 2
+4 Memory Deluge (MID) 62
+2 Syncopate (DAR) 67
+3 Thirst for Discovery (VOW) 85
+1 Spell Pierce (XLN) 81
+3 Make Disappear (SNC) 49
+3 Soul Partition (BRO) 26
+1 Farewell (NEO) 13
+3 Lay Down Arms (BRO) 11
+3 Sunfall (MOM) 40
+3 The Wandering Emperor (NEO) 42
+2 Teferi, Temporal Pilgrim (BRO) 66
+2 The Eternal Wanderer (ONE) 11
+3 Deserted Beach (MID) 260
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Otawara, Soaring City (NEO) 271
+2 Raffine's Tower (SNC) 254
+3 Spara's Headquarters (SNC) 257
+10 Plains (MIR) 331
+7 Island (MIR) 336
+
+Sideboard
+2 Hullbreaker Horror (VOW) 63
+1 Farewell (NEO) 13
+1 Sunset Revelry (MID) 38
+1 Depopulate (SNC) 10
+2 Negate (M20) 69
+2 Knockout Blow (SNC) 20
+2 Sunset Revelry (MID) 38
+2 Boon-Bringer Valkyrie (MOM) 9
+2 Chrome Host Seedshark (MOM) 51
